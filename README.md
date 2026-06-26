@@ -269,10 +269,10 @@ project-java/
 
 ### Home Page
 
-<img src="images/s3.png" width="400">
+<img src="images/s3.png" width="1000" alt="click Here">
 
 
-### Brand 
+### Sho By Brand 
 <img src="images/s4.png" width="800">
 
 ## 📚 API Documentation
