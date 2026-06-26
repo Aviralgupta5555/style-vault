@@ -36,7 +36,7 @@
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
+
 
 ---
 
@@ -86,9 +86,7 @@ Whether you're a shopper browsing the latest drops or an admin managing inventor
 | **Database** | MySQL / PostgreSQL |
 | **Authentication** | JWT (JSON Web Tokens) |
 | **Build Tools** | Maven (backend), npm/Vite (frontend) |
-| **Containerization** | Docker, Docker Compose |
-| **Testing** | JUnit 5, Mockito, React Testing Library, Jest |
-| **Payments (optional)** | Stripe / Razorpay integration-ready |
+
 
 ---
 
