@@ -6,30 +6,9 @@
 
 *A full-stack clothing storefront with a fast, responsive React UI and a secure, scalable Java backend.*
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
-
 </div>
 
 ---
-
-## 📖 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Environment Variables](#environment-variables)
-  - [Running the App](#running-the-app)
-- [Project Structure](#-project-structure)
-- [API Documentation](#-api-documentation)
-- [Testing](#-testing)
-- [Deployment](#-deployment)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 
 ---
@@ -263,7 +242,7 @@ project-java/
 
 ### Home Page
 
-<img src="images/s3.png" width="1000" alt="click Here">
+<img src="images/s3.png" width="300" alt="click Here">
 
 
 ### Sho By Brand 
