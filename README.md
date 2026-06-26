@@ -123,9 +123,7 @@ Make sure you have the following installed:
 - [Java JDK](https://adoptium.net/) (17+)
 - [Maven](https://maven.apache.org/) (3.8+)
 - [MySQL](https://dev.mysql.com/) or [PostgreSQL](https://www.postgresql.org/) (or use Docker)
-- [Docker](https://www.docker.com/) (optional, recommended)
 - Git
-
 ### Installation
 
 Clone the repository:
