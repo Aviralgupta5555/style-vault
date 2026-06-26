@@ -257,6 +257,23 @@ project-java/
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+
+<img src="images/s1.png" width="800">
+
+### Product Page
+
+<img src="images/s2.png" width="800">
+
+### Shopping Cart
+
+<img src="images/s3.png" width="800">
+
+### 
+<img src="images/s4.png" width="800">
+
 ## 📚 API Documentation
 
 Base URL: `http://localhost:8080/api`
