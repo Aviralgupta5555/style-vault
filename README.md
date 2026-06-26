@@ -368,16 +368,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ---
 
-## 📬 Contact
 
-**Project Maintainer** — [Your Name](mailto:you@example.com)
-
-Project Link: [https://github.com/your-username/project-java](https://github.com/your-username/project-java)
-
----
-
-<div align="center">
-
-⭐ **If you found this project helpful, consider giving it a star!** ⭐
-
-</div>
