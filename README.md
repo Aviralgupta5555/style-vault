@@ -4,12 +4,6 @@
 
 ### Modern E-Commerce Platform for Fashion & Apparel
 
-[![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![Java](https://img.shields.io/badge/Backend-Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
 *A full-stack clothing storefront with a fast, responsive React UI and a secure, scalable Java backend.*
 
 [Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
